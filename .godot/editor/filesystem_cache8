@@ -1,0 +1,6 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1693933840
+celula.png::CompressedTexture2D::5440552730022687990::1693874452::1693874457::1::::<><>::
+icon.svg::CompressedTexture2D::2128220729319621224::1693874305::1693874317::1::::<><>::
+node_2d.tscn::PackedScene::5959079162186701944::1693926905::0::1::::<><>::uid://cjrpdxr8c5pcg::::res://celula.png<>res://TileMap.gd
+TileMap.gd::GDScript::-1::1693880979::0::1::::<>TileMap<>::
